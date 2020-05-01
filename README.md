@@ -1,5 +1,10 @@
 # vue-ui-electron
 
+boom binaries:
+```
+npm run electron:build
+```
+
 ## Project setup
 ```
 npm install
